@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  position: relative;
+  top: 0;
+  margin: 0;
+  height: 80px;
+  width: 100%;
+
+  /* background-color: rgb(47, 46, 46);
+  color: white; */
+}
+
+.header__heading {
+  margin-top: 0;
+  position: absolute;
+  top: 50%;
+}
+
+.nav__bar {
+  position: absolute;
+  top: 50%;
+  right: 0;
+}
+
+body {
+  /* background-color: rgb(33, 33, 33);
+  color: white; */
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+a:hover {
+  color: rgb(123, 123, 219);
+}
+.intro__section {
+  display: flex;
+}
+
+#contact {
+  border: solid black;
+}
+
+.social_handle {
+  display: flex;
+}
+
+.social__name {
+  text-align: center;
+}
