@@ -6,3 +6,5 @@ Adding javascript later.
 Filling the html with filler text
 
 Trying out some code to make it responsive for desktop view.
+
+Starting with styling.
