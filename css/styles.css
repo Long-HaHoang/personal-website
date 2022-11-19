@@ -59,21 +59,15 @@ body {
   justify-content: center;
   align-items: center;
   width: 50%;
-  background-image: url(./asset/SM-placeholder.png);
-  background-size: contain;
+  background-image: url(/asset/SM-placeholder.png);
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
-/* .intro__badge img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  border: solid;
-  margin: 0;
-  height: 50%;
-  width: 50%;
-} */
+.intro__section_txt {
+  background-color: powderblue;
+}
 
 .intro__text {
   border: solid;
