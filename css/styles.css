@@ -57,7 +57,7 @@ body {
   padding: 20px;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
   width: 50%;
   background-image: url(/asset/SM-placeholder.png);
   background-size: cover;
